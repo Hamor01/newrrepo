@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    align-content: center;
+    font-family: Arial, sans-serif;
+}
+
+form {
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    align-content: center;
+}
+
+
+h1{
+    outline-style: auto;
+    border-bottom: #9a3434;
+
+}
+
+
+        input[type="text"],
+        input[type="password"] {
+            width: 20%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 2px solid #ccc;
+            border-radius: 5px;
+            outline-color: burlywood;
+        }
+
+
+        input[type="submit"] {
+            background-color: cornflowerblue;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+
+
+        input[type="submit"]:hover {
+            background-color: royalblue;
+        }

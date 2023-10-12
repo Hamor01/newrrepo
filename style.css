@@ -1,0 +1,22 @@
+body{
+    background: green;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+    font-size: 30px;
+    border-radius: 5px;
+}
+h1{
+    background: #9a3434;
+    outline-style: solid;
+    border-right: blue;
+}
+img{
+    border-radius: 10px;
+    width: 100px;
+
+}
